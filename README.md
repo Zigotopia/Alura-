@@ -35,7 +35,7 @@ First project learning React fundamentals to build a project with react app
 - [x] Concluded
 
 ## Deploy
-- Link : [Alura +](alura-wheat.vercel.app)
+- Link : [Alura +](https://alura-wheat.vercel.app/)
   
   
 
